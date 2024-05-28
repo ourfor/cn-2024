@@ -3,7 +3,7 @@ course_name: History of SYSU
 course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
 course_semester: "Fall 2024"
 
-baseurl: "/cn2024" # the subpath of your site, e.g. /blog/
+baseurl: "/cn-2024" # the subpath of your site, e.g. /blog/
 url: "http://ourfor.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Sun Yat-sen University"
@@ -11,9 +11,9 @@ schoolurl: "https://sysu.edu.cn"
 twitter_username: username 
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+    No.135 Xingang Xi Lu,
+    Haizhu District,
+    Guangzhou
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
@@ -50,3 +50,5 @@ defaults:
       type: "assignments"
     values:
       layout: "assignment"
+
+repository: ourfor/cn-2024
